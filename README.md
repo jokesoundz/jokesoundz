@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jokesoundz
-- 👀 I’m interested in magickkkk and musickkkk
-- 🌱 I’m currently learning how to create a portal to another dimension
-- 💞️ I’m looking to collaborate on building a community
-- 📫 How to reach me... no bother for now ;)
+- 👋 Hi, I’m JoKe!
+- 👀 I’m interested in magick, musick and virtual realities...
+- 🌱 I’m currently learning a lot about coding up my maths skills into computer skills
+- 💞️ I’m looking to get into Game Development, paritcularly interested in VR
+- 📫 How to contact me - find me on discord joke232323
 
 <!---
 jokesoundz/jokesoundz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
