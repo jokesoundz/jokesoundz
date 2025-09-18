@@ -1,8 +1,14 @@
-- 👋 Hi, I’m JoKe!
-- 👀 I’m interested in magick, musick and virtual realities...
-- 🌱 I’m currently learning a lot about coding up my maths skills into computer skills
-- 💞️ I’m looking to get into Game Development, paritcularly interested in VR
-- 📫 How to contact me - find me on discord joke232323
+              __              ________  
+             |  |            /  _____/  
+             |  |  ___      /  /_  
+       __    |  | / _ \    /  __/  
+      |  | __|  |  (_) |  /  /____  
+       \_______/  \___/  /_______/  
+
+This GitHub started with a hand-coded site for Saigon Community Radio... doin my bit to strengthen the alternative musick scene in Vietnam.  
+From that moment I've been shifting deeper into tech — now 2/3rds through a Computer Science degree, focused on game development, VR, and logic-based design.  
+🧠 My background in education, philosophy, and community-building still shapes how I code, collaborate, and create.  
+📫 Reach me on Discord: joke232323 — open to thoughtful collabs and immersive ideas.
 
 <!---
 jokesoundz/jokesoundz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
